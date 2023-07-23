@@ -4,8 +4,9 @@ Welcome to my GitHub profile! I'm passionate about machine learning, data scienc
 
 ## Machine Learning Projects
 
-1. [Succour to Farmers](https://github.com/roshaans2/Succuour_to_farmers) - It is web portal developed to assist farmers by using Machine learning and Deep Learning techniques.
-2. [Project Name 2](link-to-project2-folder) - Short description of the project.
+1. [Succour to Farmers](https://github.com/roshaans2/Succuour_to_farmers) - It is a web portal developed to assist farmers by using Machine learning and Deep Learning techniques.
+2. [Docine - Frontend](https://github.com/roshaans2/Disease-Prediction-System-Frontend) - Frontend part of the Web portal that detects various diseases using Machine Learning and Deep Learning Techniques.
+3. [Docine - Backend](https://github.com/roshaans2/Disease-Prediction-System-Backend) - Backend part of the Web portal that detects various diseases using Machine Learning and Deep Learning Techniques.
 
 ## Data Science Projects
 
