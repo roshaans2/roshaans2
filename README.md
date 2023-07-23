@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm passionate about machine learning, data scienc
 2. [Docine - Frontend](https://github.com/roshaans2/Disease-Prediction-System-Frontend) - Frontend part of the Web portal that detects various diseases using Machine Learning and Deep Learning Techniques.
 3. [Docine - Backend](https://github.com/roshaans2/Disease-Prediction-System-Backend) - Backend part of the Web portal that detects various diseases using Machine Learning and Deep Learning Techniques.
 
-## Data Science Projects
+
+📊 Data Science Adventures
+Data Science is like a thrilling expedition where I get to uncover hidden insights and untangle complex datasets. I find immense joy in crafting data visualizations that tell compelling stories. Here are a couple of my data-driven endeavors:
 
 1. [Pizza Sales Analysis using Powerbi](https://github.com/roshaans2/Pizza-Sales-Analysis-using-Powerbi)
 2. [Bank Churn Analysis using Powerbi](https://github.com/roshaans2/Bank-Churn-Analysis-using-Powerbi)
