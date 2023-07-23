@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm passionate about machine learning, data scienc
 1. [Project Name 1](link-to-project1-folder) - Short description of the project.
 2. [Project Name 2](link-to-project2-folder) - Short description of the project.
 
-## ReactJS Projects
+## Web Development Projects
 
-1. [Project Name 1](link-to-project1-folder) - Short description of the project.
-2. [Project Name 2](link-to-project2-folder) - Short description of the project.
+1. [Phone App](https://github.com/roshaans2/PhoneAPP) - A web page designed using Java, JSP, SQL, and JDBC which has similar features of the contact section of Phone.
+2. [Crud Application](https://github.com/roshaans2/CRUD-Application) - A crud application designed using ReactJS and MongoDB.
 
 ## About Me
 
