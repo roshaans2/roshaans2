@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sivadhas</h1>
-<h3 align="center">A passionate learner/developer from India</h3>
+<h1 align="center">Hi 👋, I'm Roshaan</h1>
+<h3 align="center">A Machine Learning and Datascience Enthusiast</h3>
 
-- 🌱 I’m currently exploring **web dev and dsa**
-
-- 👯 I’m looking to collaborate on **web development.**
-
-- ⚡ Fun fact **I watch anime.**
+- 🌱 I’m currently exploring **Machine Learning, Datascience and Data Engineering**
 
 
 
