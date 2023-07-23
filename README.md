@@ -10,8 +10,9 @@ Welcome to my GitHub profile! I'm passionate about machine learning, data scienc
 
 ## Data Science Projects
 
-1. [Project Name 1](link-to-project1-folder) - Short description of the project.
-2. [Project Name 2](link-to-project2-folder) - Short description of the project.
+1. [Pizza Sales Analysis using Powerbi](https://github.com/roshaans2/Pizza-Sales-Analysis-using-Powerbi)
+2. [Bank Churn Analysis using Powerbi](https://github.com/roshaans2/Bank-Churn-Analysis-using-Powerbi)
+3. [Sales Analysis Dashboard](https://github.com/roshaans2/Bank-Churn-Analysis-using-Powerbi)
 
 ## Web Development Projects
 
