@@ -25,18 +25,6 @@ Briefly introduce yourself, your interests, and your expertise in machine learni
 
 ## Contact Information
 
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/yourusername/)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+- Email: roshaansathya@gmail.com
+- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/roshaan-s-70600a212/)
 
-## My Website
-
-Visit my personal website to learn more about my projects and blogs: [YourWebsiteURL.com](https://www.yourwebsiteurl.com)
-
-## My Blog
-
-I write about machine learning, data science, and ReactJS on my blog. Check it out here: [YourBlogURL.com](https://www.yourblogurl.com)
-
-## License
-
-This repository and its contents are licensed under the [MIT License](LICENSE.md).
