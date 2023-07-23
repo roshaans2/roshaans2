@@ -35,7 +35,7 @@ The world of technology is ever-evolving, and I embrace it with open arms. Wheth
 I love connecting with fellow developers, data enthusiasts, and learners! Reach out to me through any of these platforms:
 
 - Email: roshaansathya@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/roshaan-s-70600a212/)
+- LinkedIn: [ROSHAAN S](https://www.linkedin.com/in/roshaan-s-70600a212/)
 
 ## 🌟 Let's Build Together!
 I'm open to collaboration and contribution to exciting projects. If you share similar interests or have ideas to discuss, feel free to drop me a message. Together, we can create something amazing!
